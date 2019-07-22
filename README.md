@@ -11,7 +11,6 @@ To run this homework outside of Heroku do the following:
 
   1. Start Flask from the command line:
 
-        cd navel_diversity
         python app.py
 
   2. Bring up Chrome and type in the following URL:
