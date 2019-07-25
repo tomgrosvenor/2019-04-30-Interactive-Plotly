@@ -12,7 +12,6 @@ gradebook.db
 
 
 # Jupyter Checkpoints
-
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
@@ -111,4 +110,8 @@ node_modules/
  
 # Ignore files that contain API Keys
 api_keys.py
+apikeys.py
 config.py
+api_keys.js
+apikeys.js
+config.js
