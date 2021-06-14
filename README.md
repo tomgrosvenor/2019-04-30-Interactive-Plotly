@@ -1,4 +1,6 @@
 
+I did not include the revision history with the hopes it would discourage plagiarism
+
 Grade received on this homework:  A
 
 TA's Comments:
